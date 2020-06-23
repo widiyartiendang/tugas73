@@ -24,7 +24,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(https://glamox.icdn.no/media/upload/2016/04/04/referanse_bmw.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -92,7 +92,7 @@ header {
 
 .logo {
   width: 124px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .header-left {
